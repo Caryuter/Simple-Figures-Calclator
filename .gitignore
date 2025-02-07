@@ -1,0 +1,10 @@
+
+#Vim Files
+*~
+*.swo
+*.swp
+
+# Executable files
+*.out
+exec
+
